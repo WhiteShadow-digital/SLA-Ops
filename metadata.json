@@ -1,0 +1,8 @@
+{
+  "name": "SLA OPS - IT Helpdesk Task & SLA Tracker",
+  "description": "Operational task management and SLA breach prevention tracker designed for IT support technicians and system administrators with SOP checklists, canned command snippets, and shift handover reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
